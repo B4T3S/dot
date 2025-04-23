@@ -22,3 +22,4 @@ config config --local status.showUntrackedFiles no
 ## Other software that I usually run with:
 - [Albert](https://github.com/albertlauncher/albert)
 - [Fish](https://github.com/fish-shell/fish-shell)
+- [VSCode](https://code.visualstudio.com/docs/setup/linux#_rhel-fedora-and-centos-based-distributions)
