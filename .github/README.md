@@ -9,6 +9,7 @@ This setup was mostly adapted from [This atlassian tutorial](https://www.atlassi
 The following snipped clones this dotfile repository and sets up all needed dotfiles
 
 ```bash
+echo ".cfg" >> $HOME/.gitignore # This ensures that no weird conflicts arise from the .cfg folder
 git clone --bare git@github.com:B4T3S/dot.git $HOME/.cfg
 alias config='/usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME'
 config checkout
