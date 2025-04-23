@@ -23,3 +23,4 @@ config config --local status.showUntrackedFiles no
 - [Albert](https://github.com/albertlauncher/albert)
 - [Fish](https://github.com/fish-shell/fish-shell)
 - [VSCode](https://code.visualstudio.com/docs/setup/linux#_rhel-fedora-and-centos-based-distributions)
+- [Mise](https://mise.jdx.dev/)
